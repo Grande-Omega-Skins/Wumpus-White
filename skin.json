@@ -1,0 +1,12 @@
+{
+	"name": "Wumpus Light",
+	"author": "Stijn",
+
+	"resourceDir": "resources/app/desktop/Student",
+	"screenshotsDir": "screenshots",
+
+	"modifiedFiles": ["index.html", "wwwroot/css/style.css"],
+	"addedFiles": ["wwwroot/assets/", "wwwroot/assets/wumpus.svg"],
+
+	"screenShots": ["1.png", "2.png", "3.png"]
+}
